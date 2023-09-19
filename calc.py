@@ -17,10 +17,3 @@ def divide(x, y):
     if y == 0:
         raise ValueError('Can not divide by zero')
     return x / y
-
-"""
-print(add(20, 9))
-print(subtract(10, 5))
-print(multiply(10, 2))
-print(divide(100, 8))
-"""
